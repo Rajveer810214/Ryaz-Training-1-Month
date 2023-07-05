@@ -15,4 +15,4 @@
   
 
 ### EOD
-   - Overall, it was a productive day of learning and I'm excited to continue my Next.js journey.
+   - Overall, it was a productive day of learning and I'm excited to continue my Next.js journey.I spent 7:30 hours today on next js
