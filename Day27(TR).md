@@ -5,7 +5,7 @@ Today, I continued working on my project in Next.js, which involves cloning the 
 ## Progress 🧑‍💻🧑‍💻
 - I began my work in the afternoon at 10:00 AM.
 - Today, i want to organise my code  and remove some bugs and also add some toast instead of alert in my app.
--
+
 
 ## Tracked Time: 7 hours and 55 minutes
 
