@@ -1,4 +1,4 @@
-# Day1 with RYAZ
+# Day1 with Gruby
 ### My todays SOD is 
 * Making an e-commerce website in react
 * learning the concept of redux
